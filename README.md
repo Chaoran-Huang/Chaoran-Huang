@@ -19,5 +19,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-mycarauction&theme=highcontrast" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs/?username=Chaoran-mycarauction&theme=highcontrast&layout=compact" />
+  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs/?username=Chaoran-mycarauction&theme=highcontrast&langs_count=10" />
 </a>
