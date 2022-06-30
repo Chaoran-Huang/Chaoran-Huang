@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-mycarauction&theme=highcontrast&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true" />
+  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-mycarauction&theme=highcontrast&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
