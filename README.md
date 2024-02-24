@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 💻 Tech Stack: Machine Learning | Deep Learning (Pytorch, Tensorflow) | Cryptography (Crypto++) | Arithmetic Game Theory | Spring Boot | React | Angular | Tailwind.
+- 🌱 Currently learning 🤼🥋🇧🇷 ¸♫·¯·♪¸¸♩·¯·♬   
+- 📮 Contact: chaoranhuang97@gmail.com, [linkedin](https://www.linkedin.com/in/chaoran-huang-8388b7203/)
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-Huang&theme=highcontrast&count_private=true&show_icons=true" />
 </a>
