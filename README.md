@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 - 💻 Tech Stack: Machine Learning | Deep Learning (Pytorch, Tensorflow) | Cryptography (Crypto++) | Arithmetic Game Theory | Spring Boot | React | Angular | Tailwind.
-- 🌱 Currently learning 🤼🥋🇧🇷 ¸♫·¯·♪¸¸♩·¯·♬   
+- 🌱 Currently learning: 🤼🥋🇧🇷 ¸♫·¯·♪¸¸♩·¯·♬   
 - 📮 Contact: chaoranhuang97@gmail.com, [linkedin](https://www.linkedin.com/in/chaoran-huang-8388b7203/), [Resume](https://www.chaoran-huang.com/Chaoran_Huang_Resume.pdf)
 
 
