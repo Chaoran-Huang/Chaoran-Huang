@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   <img height=200 align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-Huang&&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 </a>
