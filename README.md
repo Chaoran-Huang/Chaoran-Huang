@@ -1,4 +1,4 @@
-![Header](../your-header-image-name.png)
+![Header](https://github.com/Chaoran-Huang/Chaoran-Huang/blob/main/github-header-image.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chaoran-Huang&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Chaoran-Huang?label=Follow&style=social)
