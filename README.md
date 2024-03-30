@@ -1,4 +1,4 @@
-### 👋 Greetings! I'm Chaoran Huang, Innovator and Code Artisan at Your Service!
+![Header](./your-header-image-name.png)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chaoran-Huang&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Chaoran-Huang?label=Follow&style=social)
