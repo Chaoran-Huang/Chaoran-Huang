@@ -7,7 +7,7 @@
 I'm passionate about leveraging technology to solve complex problems and create impactful solutions. With a focus on Machine Learning, Deep Learning, Cryptography, and Web Development, I am always on the lookout for new challenges and opportunities to grow.
 
 - 🔭 I’m currently working on expanding my knowledge in **Machine Learning** and **Cryptography**.
-- 🌱 I’m currently learning **Brazilian Jiu-Jitsu** and exploring new technologies in web development.
+- 🌱 I’m currently learning **Brazilian Jiu-Jitsu** and exploring everything new in life.
 - 👯 I’m looking to collaborate on projects that make use of **Spring Boot**, **React**, or **Angular**.
 - 🤔 I’m looking for help with **Arithmetic Game Theory**.
 - 💬 Ask me about anything related to **Machine Learning**, **Deep Learning**, or **Cryptography**.
