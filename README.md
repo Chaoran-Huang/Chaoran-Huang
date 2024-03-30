@@ -1,4 +1,7 @@
-### Hi there, I'm Chaoran Huang 👋
+### 👋 Greetings! I'm Chaoran Huang, Innovator and Code Artisan at Your Service!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Chaoran-Huang&color=blue&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/Chaoran-Huang?label=Follow&style=social)
 
 <!--
 **Chaoran-Huang/Chaoran-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
@@ -6,10 +9,10 @@
 
 I'm passionate about leveraging technology to solve complex problems and create impactful solutions. With a focus on Machine Learning, Deep Learning, Cryptography, and Web Development, I am always on the lookout for new challenges and opportunities to grow.
 
-- 🔭 I’m currently working on expanding my knowledge in **Machine Learning** and **Cryptography**.
+- 🔭 I’m currently working on expanding my knowledge in **Machine Learning**, **Cryptography** and **Big Data Systems**.
 - 🌱 I’m currently learning **Brazilian Jiu-Jitsu** and exploring everything new in life.
 - 👯 I’m looking to collaborate on projects that make use of **Spring Boot**, **React**, or **Angular**.
-- 🤔 I’m looking for help with **Arithmetic Game Theory**.
+- 🤔 I’m looking for help with **Arithmetic Game Theory**, **Web Development** and **Algorithm**.
 - 💬 Ask me about anything related to **Machine Learning**, **Deep Learning**, or **Cryptography**.
 - 📫 How to reach me: chaoranhuang97@gmail.com
 - 😄 Pronouns: He/Him
@@ -31,6 +34,10 @@ I'm passionate about leveraging technology to solve complex problems and create 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 
 ### GitHub Stats:
 
