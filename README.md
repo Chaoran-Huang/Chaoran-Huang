@@ -34,10 +34,10 @@ I'm passionate about leveraging technology to solve complex problems and create 
 
 ### GitHub Stats:
 
-<a href="https://github.com/Chaoran-Huang">
-  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-Huang&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chaoran's GitHub stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-Huang&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" />
 </a>
-<a href="https://github.com/Chaoran-Huang">
-  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs/?username=Chaoran-Huang&layout=compact&theme=buefy&hide_border=true" />
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&bg_color=00000000&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,rich%20text%20format" />
 </a>
 
