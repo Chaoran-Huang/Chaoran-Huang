@@ -34,6 +34,7 @@ I'm passionate about leveraging technology to solve complex problems and create 
 ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?style=flat&logo=vaadin&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
