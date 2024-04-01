@@ -56,3 +56,6 @@ I'm passionate about leveraging technology to solve complex problems and create 
   <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&bg_color=00000000&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,rich%20text%20format" />
 </a>
 
+[![Spotify](https://i.scdn.co/image/ab67616d0000b273e5e8ac8e3b6b2c0b14eedf6c)](https://open.spotify.com/track/2X8dqN4Jd4A7vnh1GHzPk0)
+
+[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-green?style=flat&logo=spotify)](https://open.spotify.com/track/2X8dqN4Jd4A7vnh1GHzPk0)
