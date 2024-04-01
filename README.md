@@ -47,13 +47,26 @@ I'm passionate about leveraging technology to solve complex problems and create 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
-### GitHub Stats:
+### Stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-Huang&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&bg_color=00000000&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,rich%20text%20format" />
-</a>
+<table>
+  <tr>
+    <!-- GitHub Stats -->
+    <td valign="top">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-Huang&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" alt="Chaoran Huang's GitHub Stats" />
+      </a>
+      <br>
+      <a href="https://github.com/anuraghazra/convoychat">
+        <img src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&bg_color=00000000&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,rich%20text%20format" alt="Most Used Languages" />
+      </a>
+    </td>
+    <!-- Spotify Profile -->
+    <td valign="top">
+      <a href="https://spotify-github-profile.vercel.app/api/view?uid=31dmqdrsn5o546cer7plnmech7na&redirect=true">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dmqdrsn5o546cer7plnmech7na&cover_image=true&theme=default" alt="Spotify Profile" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31dmqdrsn5o546cer7plnmech7na&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
