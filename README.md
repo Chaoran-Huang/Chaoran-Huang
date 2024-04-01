@@ -23,6 +23,7 @@ I'm passionate about leveraging technology to solve complex problems and create 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaoran_Huang-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chaoran-huang-8388b7203/) 
 [![Gmail](https://img.shields.io/badge/Gmail-chaoranhuang97-red?style=flat&logo=gmail)](mailto:chaoranhuang97@gmail.com)
 [![Website](https://img.shields.io/badge/Website-chaoran_huang.com-black?style=flat&logo=About.me)](https://www.chaoran-huang.com/resume.pdf)
+[![Instagram](https://img.shields.io/badge/Instagram-bedazzled__hcr-E4405F?style=flat&logo=instagram)](https://instagram.com/bedazzled_hcr)
 
 ### Tech Stack:
 
