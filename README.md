@@ -55,3 +55,5 @@ I'm passionate about leveraging technology to solve complex problems and create 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&bg_color=00000000&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,rich%20text%20format" />
 </a>
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31dmqdrsn5o546cer7plnmech7na&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31dmqdrsn5o546cer7plnmech7na&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
