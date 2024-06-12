@@ -12,7 +12,7 @@ I'm passionate about leveraging technology to solve complex problems and create 
 - 🔭 I’m currently working on expanding my knowledge in **Machine Learning**, **Cryptography** and **Big Data Systems**.
 - 🌱 I’m currently learning **Brazilian Jiu-Jitsu** and exploring everything new in life.
 - 👯 I’m looking to collaborate on projects that make use of **Spring Boot**, **React**, or **Angular**.
-- 💬 Ask me about anything related to **Machine Learning**, **Deep Learning**, **Cryptography** **Arithmetic Game Theory**, **Web Development** or **Algorithm**.
+- 💬 Ask me about anything related to **Machine Learning**, **Deep Learning**, **Cryptography**, **Arithmetic Game Theory**, **Web Development** or **Algorithm**.
 - 📫 How to reach me: chaoranhuang97@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring different cultures through their martial arts and music.
