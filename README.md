@@ -63,11 +63,11 @@ I'm passionate about leveraging technology to solve complex problems and create 
       </a>
     </td>
     <!-- Spotify Profile -->
-    <td valign="top">
+<!--     <td valign="top">
       <a href="https://spotify-github-profile.vercel.app/api/view?uid=31dmqdrsn5o546cer7plnmech7na&redirect=true">
         <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dmqdrsn5o546cer7plnmech7na&cover_image=true&theme=default" alt="Spotify Profile" />
       </a>
-    </td>
+    </td> -->
   </tr>
 </table>
 
