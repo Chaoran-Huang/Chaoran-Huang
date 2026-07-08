@@ -3,71 +3,69 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Chaoran-Huang&color=blue&style=flat-square)
 ![GitHub followers](https://img.shields.io/github/followers/Chaoran-Huang?label=Follow&style=social)
 
-<!--
-**Chaoran-Huang/Chaoran-Huang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
--->
+# Hi, I'm Chaoran 👋
 
-I'm passionate about leveraging technology to solve complex problems and create impactful solutions. With a focus on Machine Learning, Deep Learning, Cryptography, and Web Development, I am always on the lookout for new challenges and opportunities to grow.
+Software engineer building **AI-assisted, event-driven systems** for regulated industries. I like zero-to-one problems: taking an ambiguous idea to a production system real users depend on.
 
-- 🔭 I’m currently working on expanding my knowledge in **Machine Learning**, **Cryptography** and **Big Data Systems**.
-- 🌱 I’m currently learning **Brazilian Jiu-Jitsu** and exploring everything new in life.
-- 👯 I’m looking to collaborate on projects that make use of **Spring Boot**, **React**, or **Angular**.
-- 💬 Ask me about anything related to **Machine Learning**, **Deep Learning**, **Cryptography**, **Arithmetic Game Theory**, **Web Development** or **Algorithm**.
-- 📫 How to reach me: chaoranhuang97@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring different cultures through their martial arts and music.
+- 🚀 **Software Engineer II @ [OpenGov](https://opengov.com)** — founding engineer on a greenfield **utility-billing SaaS** (React, GraphQL, Node.js, Kafka, PostgreSQL, AWS) now live with government customers, and currently on an **AI-assisted plan-review** system, embedding models into regulatory workflows while keeping behavior deterministic and traceable.
+- 🧠 Interests: distributed systems, event-driven architecture, applied ML/LLMs, and applied cryptography.
+- 🎓 M.S. Computer Science, **Brown University** · B.S. Computer Science, **UC Irvine**.
+- ⚡ Off the keyboard: film photography and Brazilian Jiu-Jitsu.
 
-### Connect with me:
+### 📝 Writing
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaoran_Huang-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chaoran-huang-8388b7203/) 
+I write long-form engineering notes at **[learn.chaoran-huang.com](https://learn.chaoran-huang.com/docs)**:
+
+- **[From One-Hot to BERT](https://learn.chaoran-huang.com/docs/nlp)** — a geometry-first history of how NLP learned to represent meaning, from one-hot vectors to contextual embeddings.
+- **From Representation to Behavior** — the roadmap from a pre-trained transformer to an aligned, reasoning assistant *(in progress)*.
+
+### 🔗 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chaoran_Huang-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/chaoran-huang-8388b7203/)
+[![Website](https://img.shields.io/badge/Portfolio-chaoran--huang.com-black?style=flat&logo=About.me)](https://portfolio.chaoran-huang.com/)
+[![Learn](https://img.shields.io/badge/Learn-Engineering_Notes-4B32C3?style=flat&logo=readthedocs&logoColor=white)](https://learn.chaoran-huang.com/docs)
 [![Gmail](https://img.shields.io/badge/Gmail-chaoranhuang97-red?style=flat&logo=gmail)](mailto:chaoranhuang97@gmail.com)
-[![Website](https://img.shields.io/badge/Website-chaoran_huang.com-black?style=flat&logo=About.me)](https://portfolio.chaoran-huang.com/)
-[![Instagram](https://img.shields.io/badge/Instagram-bedazzled__hcr-E4405F?style=flat&logo=instagram)](https://instagram.com/bedazzled_hcr)
 
-### Tech Stack:
+### 🛠️ Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=green)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Backend & Systems**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Effect](https://img.shields.io/badge/-Effect.ts-000000?style=flat&logo=typescript&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logoColor=white&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+
+**AI / ML**
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
 ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?style=flat&logo=spacy&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Vaadin](https://img.shields.io/badge/-Vaadin-00B4F0?style=flat&logo=vaadin&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Next Js](https://img.shields.io/badge/-Next_JS-black?style=flat&logoColor=white&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Crypto++](https://img.shields.io/badge/-Crypto++-000000?style=flat&logo=Lock&logoColor=white)
+
+**Cloud & DevOps**
+
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-### Stats:
+### 📊 GitHub Stats
 
-<table>
-  <tr>
-    <!-- GitHub Stats -->
-    <td valign="top">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats-wheat-gamma.vercel.app/api?username=Chaoran-Huang&bg_color=00000000&count_private=true&show_icons=true&hide_border=true" alt="Chaoran Huang's GitHub Stats" />
-      </a>
-      <br>
-      <a href="https://github.com/anuraghazra/convoychat">
-        <img src="https://github-readme-stats-wheat-gamma.vercel.app/api/top-langs?username=Chaoran-Huang&layout=compact&bg_color=00000000&hide_border=true&count_private=true&langs_count=8&hide=jupyter%20notebook,rich%20text%20format" alt="Most Used Languages" />
-      </a>
-    </td>
-    <!-- Spotify Profile -->
-<!--     <td valign="top">
-      <a href="https://spotify-github-profile.vercel.app/api/view?uid=31dmqdrsn5o546cer7plnmech7na&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=31dmqdrsn5o546cer7plnmech7na&cover_image=true&theme=default" alt="Spotify Profile" />
-      </a>
-    </td> -->
-  </tr>
-</table>
-
+![Chaoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chaoran-Huang&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Chaoran-Huang&layout=compact&hide_border=true)
