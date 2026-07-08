@@ -5,7 +5,7 @@
 # Chaoran Huang
 
 <a href="https://learn.chaoran-huang.com/docs">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6D5AE6&center=true&vCenter=true&width=620&lines=Software+Engineer;Zero-to-one+AI+%26+distributed+systems;Founding+engineer+%40+OpenGov" alt="What I do" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=6D5AE6&center=true&vCenter=true&width=620&lines=Software+Engineer;Zero-to-one+AI+%26+distributed+systems;Full-stack+%2B+applied+ML" alt="What I do" />
 </a>
 
 <p>
@@ -25,7 +25,7 @@ I build **AI-assisted, event-driven systems** for regulated industries. I'm draw
 
 ## 🚀 What I'm working on
 
-- **Founding engineer at [OpenGov](https://opengov.com).** Took a greenfield **utility-billing SaaS** (React · GraphQL · Node.js · Kafka · PostgreSQL · AWS) from zero to a production platform live with government customers, then moved to an **AI-assisted plan-review** system — embedding models into regulatory review while keeping behavior deterministic, traceable, and safe to roll out.
+- **Founding engineer on a greenfield utility-billing SaaS** (React · GraphQL · Node.js · Kafka · PostgreSQL · AWS) — took it from zero to a production platform serving real customers, then moved to an **AI-assisted plan-review** system that embeds models into regulatory review while keeping behavior deterministic, traceable, and safe to roll out.
 - **Thinking a lot about** distributed systems, event-driven architecture, applied ML/LLMs, and applied cryptography.
 - **Background:** M.S. Computer Science, [Brown University](https://www.brown.edu) · B.S. Computer Science, [UC Irvine](https://uci.edu).
 - **Away from the keyboard:** film photography and Brazilian Jiu-Jitsu.
