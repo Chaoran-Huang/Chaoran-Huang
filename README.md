@@ -36,6 +36,11 @@ I publish long-form engineering notes at **[learn.chaoran-huang.com](https://lea
 - **From Representation to Behavior** — the roadmap from a pre-trained transformer to an aligned, reasoning assistant *(in progress)*.
 - **Bits, Math, Hashes, Streams** — a systems refresher on bit ops, modular arithmetic, hashing, and streams.
 
+### Selected work
+
+- **[Activation Checkpointing &amp; Tensor Swapping](https://github.com/Chaoran-Huang/cs265-mlsys-2024)** — automatic, graph-level memory optimization for DNN training built on `torch.fx`; cut peak activation memory ~70–85% by profiling the forward/backward graph and choosing what to recompute vs. swap. *(Harvard CS265)*
+- **[Athlete Chest X-ray Abnormality Detection](https://github.com/Chaoran-Huang/Athlete-x-ray-abnormality-dectection)** — YOLOv5 vs. Faster R-CNN for localizing abnormalities in medical imaging, from DICOM preprocessing to evaluation. *(Tongji University research, with paper)*
+
 ### Tech I reach for
 
 | | |
@@ -45,10 +50,3 @@ I publish long-form engineering notes at **[learn.chaoran-huang.com](https://lea
 | **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) |
 | **AI / ML** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) |
 | **Cloud &amp; DevOps** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) |
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Chaoran-Huang&show_icons=true&hide_border=true&title_color=4B32C3&icon_color=4B32C3" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaoran-Huang&layout=compact&hide_border=true&title_color=4B32C3" alt="Top languages" />
-
-</div>
