@@ -43,6 +43,10 @@ Long-form engineering notes at **[learn.chaoran-huang.com](https://learn.chaoran
 - **[Activation Checkpointing &amp; Tensor Swapping](https://github.com/Chaoran-Huang/cs265-mlsys-2024)** — automatic, graph-level memory optimization for DNN training built on `torch.fx`; cut peak activation memory ~70–85% by profiling the forward/backward graph and choosing what to recompute vs. swap. *(Harvard CS265)*
 - **[Athlete Chest X-ray Abnormality Detection](https://github.com/Chaoran-Huang/Athlete-x-ray-abnormality-dectection)** — YOLOv5 vs. Faster R-CNN for localizing abnormalities in medical imaging, from DICOM preprocessing to evaluation. *(Tongji University research, with paper)*
 
+## 🌱 Open source
+
+- **[Effect-TS/effect](https://github.com/Effect-TS/effect)** — reported root-caused bugs in the `@effect/ai` Amazon Bedrock provider (extended thinking, reasoning tokens): [#6185](https://github.com/Effect-TS/effect/issues/6185) (fixed), [#6186](https://github.com/Effect-TS/effect/issues/6186), [PR #6278](https://github.com/Effect-TS/effect/pull/6278).
+
 ## 🧠 Tech I reach for
 
 <div align="center">
