@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/Chaoran-Huang/Chaoran-Huang/blob/main/github-header-image.png" alt="Chaoran Huang" width="100%" />
-
 # Chaoran Huang
 
 <a href="https://learn.chaoran-huang.com/docs">
